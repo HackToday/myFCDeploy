@@ -1,0 +1,7 @@
+author: Kai Qiang Wu <wkq5325@gmail.com>
+license:
+  header: This file is part of myFCDeploy 
+  text: |
+     {{ .copyright }}
+
+     This is my license for test. 
